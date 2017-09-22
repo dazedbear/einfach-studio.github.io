@@ -42,29 +42,7 @@
   "datePublished" : "2017-09-09",
   "articleSection" : "talks",
   "articleBody" : "參考來源"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "反思</H2>\n\n<P>看完了，然後呢？\n接下來的部份，我要說說自己試用後的心得。</P>\n\n<H3 id=\"適合自己就是好方法\">適合自己就是好方法</H3>\n\n<P>工作方法這麼多，到底哪種好用？</P>\n\n<P><STRONG>適合自己的方法最好用。</STRONG></P>\n\n<P><DEL>這不是在講幹話，</DEL>那要怎麼挑呢？</P>\n\n<P>回歸到自己的需求，覺得自己在浪費時間就用Time Tracking工具、覺得不知道該做什麼，就用GTD和1-3-5法則。總之，<STRONG>親自試過立刻就會知道適不適合</STRONG>。違反自己性格、習慣的事肯定沒辦法長久，這個只能自己嘗試、自己歸納哪種好用。</P>\n\n<H3 id=\"規劃其實很浪費時間\">規劃其實很浪費時間</H3>\n\n<P>我用了Time Tracking工具追蹤這個月的工作狀況時，發現了一個有趣的現象：每天一早的「規劃」其實花了我最多的時間。這點其實很弔詭，良好的規劃可以省下時間、但規劃時間又很浪費時間",
-  "url" : "http://xn--k1rv48do1a618ajoz/"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "剖析痛點，節省規劃時間</H3>\n\n<P>仔細探究後，我發現問題出在以下幾點：</P>\n\n<OL>\n  <LI>規劃資料分散在各服務中</LI>\n  <LI>工具很難操作</LI>\n  <LI>花太多時間做筆記</LI>\n</OL>\n\n<P>甚至有一天花了2小時就為了把hackMD的筆記改寫格式到Trac中回報進度，根本超浪費時間的我說。</P>\n\n<P>身為小工程師，決定要優化這個流程。</P>\n\n<P>首先是架構好自己的工作流程：每天一來我要怎麼開工？用什麼服務看進度？用什麼工具追蹤狀況？回報進度時要用到哪些工具？怎樣的流程最順手？</P>\n\n<P>以我自己來說，我用了以下工具：</P>\n\n<UL>\n  <LI>專案管理：Trello</LI>\n  <LI>筆記、草稿、規劃：hackMD</LI>\n  <LI>進度回報：Trac</LI>\n  <LI>時間追蹤：Toggl</LI>\n  <LI>每日待辦事項：Todoist</LI>\n</UL>\n\n<P>因為太分散，資料搜尋、同步的成本很高，所以我決定使用基於API和webhook的自動化服務，把我愛用的服務們串接在一起。好比說：Trello在卡片中新增待辦事項時，自動在Todoist新增一個Task、hackMD透過格式轉換工具轉成Trac的格式…等。下次再另開一篇介紹我的wrokflow和自動化工具zapier怎麼使用。"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "小結</H2>\n\n<P>今天簡單介紹了工作方法&amp;一些心得，利用這些方法可以多多認識自己，越了解自己的習性、就能工作越有效率，<DEL>然後準時下班走人！"
-} ]
+}]
 </script>
 
 ---
