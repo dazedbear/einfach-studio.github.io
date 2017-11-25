@@ -1,50 +1,3 @@
-<!-- 由 Google 結構化資料標記協助工具產生的 JSON-LD 標記。 -->
-<script type="application/ld+json">
-[ {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "有效率的工作方法"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "pomodoro 番茄鐘"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "GTD (Getting Things Done)"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "The 1-3-5 Rule"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "Time Tracking"
-}, {
-  "@context" : "http://schema.org",
-  "@type" : "Article",
-  "name" : "談談工作流程",
-  "datePublished" : "2017-09-09",
-  "articleSection" : "talks",
-  "articleBody" : "參考來源"
-}]
-</script>
-
 ---
 title: 談談工作流程
 description: 分享近日的工作流程
@@ -173,5 +126,5 @@ __適合自己的方法最好用。__
 
 今天簡單介紹了工作方法&一些心得，利用這些方法可以多多認識自己，越了解自己的習性、就能工作越有效率，~~然後準時下班走人！~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNzI2NTMyOF19
+eyJoaXN0b3J5IjpbODkzODA2MTg4XX0=
 -->
