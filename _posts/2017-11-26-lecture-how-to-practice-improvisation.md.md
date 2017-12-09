@@ -6,6 +6,8 @@ tags: jazz improvisation lecture
 
 ---
 
+![講座合照](https://i.imgur.com/dMmM9TU.jpg)
+
 週五因為 Frinny 的邀約得知這個[講座](https://www.accupass.com/event/1711121138327500378210)，迅速的辦了 Accupass 取得免費的電子票券，也順便買了下個月[台北音樂設計節](https://www.tmdf.info/)的早鳥票。簡單分享一下今天的心得。
 
 # 如何學習一首曲目
@@ -18,7 +20,7 @@ tags: jazz improvisation lecture
 音樂的三要素：節奏、音高、音色，Moehring 則是使用了「參數」的概念，從不同 **層面** 看待同一首曲子。例如：動態 (Dynamic)、音域 (Range)、音色 (Tone)、Time Feel、演奏技法 (Articulation)...等，
 他將三元素分得更細並提出這張參數表。
 
- (參數表待補上)
+![Deep Listening Parameters](https://i.imgur.com/SxegQAY.png)
 
 接下來會利用這張表輔助我們理性的分析曲子，一層一層的學習曲子的精隨。
 
@@ -126,5 +128,5 @@ lick的練習不是要背起來、練12個調硬套，而是內化後能自由�
 
 以我來說，收穫最大的還是「用耳朵學習」。我的壞習慣就是吸收了一大堆的**知識** ，**但沒有真的去彈** ，導致我學爵士這麼久了，還是一點長進也沒有。**以慢為快的實際操作很重要** ，因為貪快而看一堆理論書、拿一堆 RealBook 想要一週學一首，反而都是繞遠路啊！切記切記！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzU1MDI1MF19
+eyJoaXN0b3J5IjpbLTEzMzkwODc4MjJdfQ==
 -->
