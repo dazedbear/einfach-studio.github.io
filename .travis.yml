@@ -4,11 +4,10 @@ before_install:
 - sudo apt-get -qq update
 - nvm install v8.9.1
 - nvm use v8.9.1
-- sudo apt-get install yarn
 install:
-- yarn
+- npm i
 script:
 # - yarn run test
-- yarn run build:gh
+- npm run build:gh
 notifications:
   slack: dazedbear:lg4AOFwPUo1ialwVVkqgZ1J1
