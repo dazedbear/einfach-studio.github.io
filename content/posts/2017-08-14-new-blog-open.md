@@ -1,5 +1,5 @@
 ---
-title: "New Site Open Now!"
+title: "新站開幕啦！"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 date: "2017/08/14"
 category: "talks"
@@ -66,5 +66,5 @@ tags:
 
 一不小心就廢話太多了，總之，以後請多多指教囉~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgxODM0MDVdfQ==
+eyJoaXN0b3J5IjpbMTgwNzg1OTMyMV19
 -->
