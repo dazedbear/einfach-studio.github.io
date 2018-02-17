@@ -1,0 +1,14 @@
+language: node_js
+sudo: enabled
+before_install:
+- sudo apt-get -qq update
+- sudo apt-get install yarn
+- nvm install v8.9.1
+- nvm use v8.9.1
+install:
+- yarn
+script:
+# - yarn run test
+- yarn run build:gh
+notifications:
+  slack: dazedbear:lg4AOFwPUo1ialwVVkqgZ1J1

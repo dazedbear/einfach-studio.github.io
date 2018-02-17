@@ -45,6 +45,7 @@
     "eslint-plugin-jsx-a11y": "^5.1.1",
     "eslint-plugin-react": "^7.5.1",
     "gh-pages": "^1.1.0",
+    "jest": "^22.3.0",
     "prettier": "^1.9.2",
     "remark-cli": "^4.0.0",
     "remark-preset-lint-recommended": "^3.0.1",
@@ -64,16 +65,39 @@
     "serve": "gatsby serve",
     "build": "gatsby build",
     "build:pp": "gatsby build --prefix-paths",
-    "build:gh": "npm run clean && npm run build:pp && gh-pages -d public",
+    "build:gh": "npm run clean && npm run build && gh-pages -d public -b master",
     "clean": "rm -rf public",
     "lint:js": "eslint --ext .js,.jsx .",
     "lint:md": "remark content/posts/",
     "write-good": "write-good $(glob 'content/posts/**/*.md')",
-    "format:js": "prettier '**/*.{js,jsx}' --write"
+    "format:js": "prettier '**/*.{js,jsx}' --write",
+    "lint": "eslint .",
+    "test": "npm run lint && jest --env=jsdom --verbose --colors --no-cache"
   },
   "remarkConfig": {
     "plugins": [
       "remark-preset-lint-recommended"
     ]
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!**/node_modules/**",
+      "!**/lib/**",
+      "!public/**"
+    ],
+    "testMatch": [
+      "**/__tests__/**/?(*.)(spec|test).js?(x)"
+    ],
+    "moduleDirectories": [
+      "node_modules",
+      "."
+    ],
+    "setupFiles": [
+      "<rootDir>/__mocks__/setup.js"
+    ],
+    "moduleNameMapper": {
+      "\\.(css|scss)$": "identity-obj-proxy"
+    }
   }
 }
