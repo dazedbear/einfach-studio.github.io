@@ -1,0 +1,2 @@
+webpackJsonp([0xdf815614ead],{503:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/new-site-open-now"},excerpt:"新站開幕啦！ 緣由 其實「架站」這個構想已經計畫許久了。提及緣由以前，先講點前情提要吧(? 學習的核心 從…",timeToRead:2,frontmatter:{title:"New Site Open Now!",tags:["架站","學習方法"],cover:"https://unsplash.it/1152/300/?random?TheButterflyoftheEdge",date:"2017/08/14"}}}]}},pathContext:{tag:"學習方法"}}}});
+//# sourceMappingURL=path---tags-學習方法-73e1b75fd47f133314ef.js.map
