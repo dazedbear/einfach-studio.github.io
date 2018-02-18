@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---tags-學習方法": [
-      "path---tags-學習方法-73e1b75fd47f133314ef.js",
-      "path---tags-學習方法-73e1b75fd47f133314ef.js.map"
+      "path---tags-學習方法-8aa59e15840e399e23b2.js",
+      "path---tags-學習方法-8aa59e15840e399e23b2.js.map"
     ],
     "path---berklee音樂講座-如何練習爵士與即興-julian-moehring": [
       "path---berklee音樂講座-如何練習爵士與即興-julian-moehring-338df24b34e9763971c4.js",
@@ -45,8 +45,8 @@
       "path---tags-node-js-ae6a661bac179ebb3597.js.map"
     ],
     "component---src-layouts-index-jsx": [
-      "component---src-layouts-index-jsx-b457fdd0b4502e59e823.js",
-      "component---src-layouts-index-jsx-b457fdd0b4502e59e823.js.map"
+      "component---src-layouts-index-jsx-79bbe15d5e6b05b175c6.js",
+      "component---src-layouts-index-jsx-79bbe15d5e6b05b175c6.js.map"
     ],
     "path---tags-ubuntu": [
       "path---tags-ubuntu-e3a04dd99a5dde996419.js",
@@ -68,21 +68,25 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
+    "path---新站開幕啦！": [
+      "path---新站開幕啦！-7a287d7d455308d994d9.js",
+      "path---新站開幕啦！-7a287d7d455308d994d9.js.map"
+    ],
     "path---tags-music": [
       "path---tags-music-e0f73ce6f7bddcd81497.js",
       "path---tags-music-e0f73ce6f7bddcd81497.js.map"
     ],
     "path---categories-talks": [
-      "path---categories-talks-f4c9c1e02aece9bbbaa4.js",
-      "path---categories-talks-f4c9c1e02aece9bbbaa4.js.map"
+      "path---categories-talks-c1c9e0b64d94441da882.js",
+      "path---categories-talks-c1c9e0b64d94441da882.js.map"
     ],
     "path---tags-chromium": [
       "path---tags-chromium-43e9bd8ae294f308da0b.js",
       "path---tags-chromium-43e9bd8ae294f308da0b.js.map"
     ],
     "path---2017-台北音樂設計節-tmdf-筆記": [
-      "path---2017-台北音樂設計節-tmdf-筆記-0e4d746c9e50b0d57e95.js",
-      "path---2017-台北音樂設計節-tmdf-筆記-0e4d746c9e50b0d57e95.js.map"
+      "path---2017-台北音樂設計節-tmdf-筆記-c93574f2e6903895c96b.js",
+      "path---2017-台北音樂設計節-tmdf-筆記-c93574f2e6903895c96b.js.map"
     ],
     "path---談談工作流程": [
       "path---談談工作流程-8af51a09911aaf7f6835.js",
@@ -93,12 +97,12 @@
       "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
     ],
     "path---tags-架站": [
-      "path---tags-架站-b29536b436af67875869.js",
-      "path---tags-架站-b29536b436af67875869.js.map"
+      "path---tags-架站-7ef476b0f6a9aeaaa879.js",
+      "path---tags-架站-7ef476b0f6a9aeaaa879.js.map"
     ],
     "path---index": [
-      "path---index-e4b778abf758d1936a28.js",
-      "path---index-e4b778abf758d1936a28.js.map"
+      "path---index-86b175393398d43d0a30.js",
+      "path---index-86b175393398d43d0a30.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
@@ -113,10 +117,6 @@
       "build-js-styles.css",
       "commons-caabb191a995da0103a2.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---new-site-open-now": [
-      "path---new-site-open-now-448cc52aacd7633596ff.js",
-      "path---new-site-open-now-448cc52aacd7633596ff.js.map"
     ],
     "path---tags-frontend": [
       "path---tags-frontend-4b6eeb27f719537d742f.js",
@@ -147,9 +147,9 @@
       "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js.map"
     ],
     "app": [
-      "app-11d0ba69921412b48836.js",
+      "app-d00bd4923b64b9759a7f.js",
       "build-js-styles.css",
-      "app-11d0ba69921412b48836.js.map",
+      "app-d00bd4923b64b9759a7f.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-chromium-os": [
