@@ -10,6 +10,7 @@ module.exports = {
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "359363404539447", // FB Application ID for using app insights
   siteGATrackingID: "UA-104397229-1", // Tracking code ID for google analytics.
+  siteGTMID: "GTM-MC75XCB",
   disqusShortname: "", // Disqus shortname.
   postDefaultCategoryID: "talks", // Default category for posts.
   userName: "DazedBear", // Username to display in the author segment.
