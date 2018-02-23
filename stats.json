@@ -113,9 +113,9 @@
       "path---tags-lubuntu-cc9590e94ded62ec77c7.js.map"
     ],
     "commons": [
-      "commons-caabb191a995da0103a2.js",
+      "commons-c098bf7a8b8d5b40dfb0.js",
       "build-js-styles.css",
-      "commons-caabb191a995da0103a2.js.map",
+      "commons-c098bf7a8b8d5b40dfb0.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-frontend": [
@@ -147,9 +147,9 @@
       "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js.map"
     ],
     "app": [
-      "app-d00bd4923b64b9759a7f.js",
+      "app-84f223a9ac90691c9cc5.js",
       "build-js-styles.css",
-      "app-d00bd4923b64b9759a7f.js.map",
+      "app-84f223a9ac90691c9cc5.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-chromium-os": [

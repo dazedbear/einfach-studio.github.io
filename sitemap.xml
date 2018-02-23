@@ -1,14 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/offline-plugin-app-shell-fallback/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/新站開幕啦！</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/eee-pc-翻身計畫！</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/談談工作流程</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/berklee音樂講座-如何練習爵士與即興-julian-moehring</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/新站開幕啦！</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/2017-jsdc-筆記</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/2017-台北音樂設計節-tmdf-筆記</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/架站/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/學習方法/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/lubuntu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/ubuntu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/macbuntu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -19,6 +17,8 @@
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/jazz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/improvisation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/lecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/架站/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/學習方法/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/jsdc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/frontend/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/javascript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
