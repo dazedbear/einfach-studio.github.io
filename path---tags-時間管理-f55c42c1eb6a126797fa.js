@@ -1,2 +1,2 @@
-webpackJsonp([89812773739108],{504:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/談談工作流程"},excerpt:"最近DB…",timeToRead:2,frontmatter:{title:"談談工作流程",tags:["專案管理","時間管理"],cover:"https://www.calmachiever.com/wp-content/uploads/2017/03/Supercharge.jpg",date:"2017/09/09"}}}]}},pathContext:{tag:"時間管理"}}}});
+webpackJsonp([89812773739108],{513:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/談談工作流程"},excerpt:"最近DB…",timeToRead:2,frontmatter:{title:"談談工作流程",tags:["專案管理","時間管理"],cover:"https://www.calmachiever.com/wp-content/uploads/2017/03/Supercharge.jpg",date:"2017/09/09"}}}]}},pathContext:{tag:"時間管理"}}}});
 //# sourceMappingURL=path---tags-時間管理-f55c42c1eb6a126797fa.js.map
