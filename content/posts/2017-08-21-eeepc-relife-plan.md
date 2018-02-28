@@ -2,7 +2,7 @@
 title: "Eee PC 翻身計畫！"
 cover: "https://i.ytimg.com/vi/ZcE_bzx21wg/maxresdefault.jpg"
 date: "2017/08/21"
-category: "talks"
+category: "Labs"
 tags: 
     - lubuntu
     - ubuntu
