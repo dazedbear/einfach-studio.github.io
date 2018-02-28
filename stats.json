@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---新年快樂-除舊佈新": [
-      "path---新年快樂-除舊佈新-e96459a1e4f1656f25dd.js",
-      "path---新年快樂-除舊佈新-e96459a1e4f1656f25dd.js.map"
+      "path---新年快樂-除舊佈新-10d0144b6a43bacaf336.js",
+      "path---新年快樂-除舊佈新-10d0144b6a43bacaf336.js.map"
     ],
     "path---tags-學習方法": [
       "path---tags-學習方法-8aa59e15840e399e23b2.js",
@@ -15,6 +15,10 @@
     "path---tags-improvisation": [
       "path---tags-improvisation-e908a34d7d3b809a2112.js",
       "path---tags-improvisation-e908a34d7d3b809a2112.js.map"
+    ],
+    "path---和聲學筆記-i-v-and-v-7": [
+      "path---和聲學筆記-i-v-and-v-7-fcf29b3f9eb9e5c30521.js",
+      "path---和聲學筆記-i-v-and-v-7-fcf29b3f9eb9e5c30521.js.map"
     ],
     "path---categories-conference": [
       "path---categories-conference-52b6279dde7b09c6fd14.js",
@@ -39,6 +43,10 @@
     "path---2017-jsdc-筆記": [
       "path---2017-jsdc-筆記-521335878d991991bcda.js",
       "path---2017-jsdc-筆記-521335878d991991bcda.js.map"
+    ],
+    "path---tags-harmony-and-voice-leading": [
+      "path---tags-harmony-and-voice-leading-d20329224cac36af3f02.js",
+      "path---tags-harmony-and-voice-leading-d20329224cac36af3f02.js.map"
     ],
     "path---tags-macbuntu": [
       "path---tags-macbuntu-5282632218675ea3625c.js",
@@ -77,8 +85,8 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---新站開幕啦！": [
-      "path---新站開幕啦！-ed53c0348710971958ad.js",
-      "path---新站開幕啦！-ed53c0348710971958ad.js.map"
+      "path---新站開幕啦！-a0e92175a473186d8840.js",
+      "path---新站開幕啦！-a0e92175a473186d8840.js.map"
     ],
     "path---tags-music": [
       "path---tags-music-e0f73ce6f7bddcd81497.js",
@@ -109,8 +117,8 @@
       "path---tags-架站-7ef476b0f6a9aeaaa879.js.map"
     ],
     "path---index": [
-      "path---index-f076dead8e76679c0f56.js",
-      "path---index-f076dead8e76679c0f56.js.map"
+      "path---index-e306d3e7c895540791a3.js",
+      "path---index-e306d3e7c895540791a3.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
@@ -138,6 +146,10 @@
       "path---tags-lecture-11bbade162a37f1ecc1b.js",
       "path---tags-lecture-11bbade162a37f1ecc1b.js.map"
     ],
+    "path---categories-notes": [
+      "path---categories-notes-382b195b53e780cb80da.js",
+      "path---categories-notes-382b195b53e780cb80da.js.map"
+    ],
     "path---tags-專案管理": [
       "path---tags-專案管理-90c5ba861f8c95563c4e.js",
       "path---tags-專案管理-90c5ba861f8c95563c4e.js.map"
@@ -159,9 +171,9 @@
       "path---tags-gastby-js-238b843bb9b0ed6fbaff.js.map"
     ],
     "app": [
-      "app-fbc34023f21c79af5b0a.js",
+      "app-5862aa9604aa20e3450c.js",
       "build-js-styles.css",
-      "app-fbc34023f21c79af5b0a.js.map",
+      "app-5862aa9604aa20e3450c.js.map",
       "build-js-styles.css.map"
     ],
     "path---tags-chromium-os": [
@@ -185,8 +197,8 @@
       "path---about-586c7e095e534a3909ec.js.map"
     ],
     "path---eee-pc-翻身計畫！": [
-      "path---eee-pc-翻身計畫！-8889c228be54e8b8ba32.js",
-      "path---eee-pc-翻身計畫！-8889c228be54e8b8ba32.js.map"
+      "path---eee-pc-翻身計畫！-fb8deb24d3c59c951bb4.js",
+      "path---eee-pc-翻身計畫！-fb8deb24d3c59c951bb4.js.map"
     ]
   }
 }

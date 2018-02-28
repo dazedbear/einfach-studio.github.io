@@ -8,6 +8,7 @@
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/2017-jsdc-筆記</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/2017-台北音樂設計節-tmdf-筆記</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/新年快樂-除舊佈新</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/和聲學筆記-i-v-and-v-7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/架站/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/學習方法/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/lubuntu/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -30,10 +31,12 @@
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/gastby-js/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/firebase/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/tags/harmony-and-voice-leading/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/categories/talks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/categories/lecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/categories/conference/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/categories/lab/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://einfach-studio.github.io/gatsby-material-starter/categories/notes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://einfach-studio.github.io/gatsby-material-starter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
